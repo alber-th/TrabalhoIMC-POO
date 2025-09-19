@@ -19,7 +19,7 @@ TrabalhoIMC_POO/
 └── ROTEIRO_APRESENTACAO.md  # Roteiro para explicar ao professor
 ```
 
-### 🔧 Como Compilar e Executar
+### 🔧 Como Compilar e Executar Geral
 
 #### Pré-requisitos:
 - Java Development Kit (JDK) 8 ou superior
