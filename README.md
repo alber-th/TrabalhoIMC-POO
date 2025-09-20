@@ -15,8 +15,8 @@ TrabalhoIMC_POO/
 │   ├── Pessoa.java          # Classe base
 │   ├── Atleta.java          # Classe filha (herda de Pessoa)
 │   └── CalculadoraIMC.java  # Classe principal
-├── README.md                # Este arquivo
-└── ROTEIRO_APRESENTACAO.md  # Roteiro para explicar ao professor
+└── README.md                # Este arquivo
+
 ```
 
 ### 🔧 Como Compilar e Executar Geral
